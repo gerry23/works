@@ -1,0 +1,185 @@
+body{
+	box-sizing: border-box;
+}
+.video{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.one{
+	padding-bottom: 50px;
+}
+.index-content03{
+	background-color: #eee;
+}
+.content_04{
+	border: 1px solid black;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+.footer-content{
+	margin: 30px;
+}
+footer{
+	background-color: #eee;
+	box-sizing: border-box;
+
+}	
+
+.footer-input-text{
+	display: block;
+	border-radius: 40px;
+	padding:10px 92px 12px 20px;
+	border:none;
+	position: relative;
+	outline: 0px;
+}
+.footer-content-button{
+	position: relative;
+	display: inline-block;
+}
+.footer-button{
+	display: block;
+	border-radius: 40px;
+	padding: 10px 20px 12px;
+	border:none;
+	line-height: 20px;
+	text-decoration:none;
+	position: absolute;
+	top:0;
+	right:0;
+
+}
+#under-footer-page{
+	background-color: #373737;	
+	width: auto;
+	box-sizing: border-box;
+}
+
+.under-footer-content{	
+	padding: 20px;
+	color: white;	
+}
+.info{
+	float: left;
+	width: 33.3%;
+    display: inline-block;
+	border:1px solid black;
+	height: 50px;
+	padding: 7px;
+}
+/*.content-style{
+ border:1px solid black;*/
+}
+.info-button{	
+}
+.clearfix{
+	clear:both;
+}
+.info01{
+	
+	background-color: #eee; 
+}
+.info02{
+	margin: 50px 0px;
+}
+div.info-pic{
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image:url("../images/dominik-scythe-148662.jpg");
+	padding: 200px;	 
+	width: 100%;
+
+}
+.info-font{
+	color: white;
+	padding:20px;
+}
+.info-font02{
+	
+	padding:20px;
+}
+.info-content03{
+	margin: 100px;
+}
+
+
+/*member*/
+.member-content01{
+	margin: 10px;
+}
+.member-pic{
+	width: 50%;
+	height: 50%;
+}
+.member-content03{
+	margin: 100px;
+}
+
+
+/*service*/
+.service-content03{
+
+}
+
+
+.service-content01{
+	background-color: #eee;
+	margin-top: 20px; 
+	margin-bottom: 20px ;
+}
+.service-pic{
+	width: 100%;
+	height: auto;
+
+}
+.service-content-size{
+	padding:0px;	
+}
+.member-btn{
+	width: 50%;
+}
+
+/*speech*/
+.speech-pic{
+	width: 100%;
+	height: auto;
+}
+.speech-content-button{
+	margin-left:  30%;
+	margin-right: 30%;
+	margin-bottom: 20px;
+	border:1px solid black;
+	width: 40%;
+
+}
+.article-content-lists{
+	/*width: 33.3%;*/
+	/*float: left;*/
+	display: flex;
+	align-items: center;
+  	justify-content: center;
+	/*margin-bottom: 10px;*/
+	
+	/*margin-right: 2%;*/
+}
+.article-content{
+	column-count: 3;
+	height: 800px;
+	flex-flow: column wrap;
+	width: 100%;
+	margin: 0px  auto;
+	display: grid;
+	
+}
+
+
+
+
+
+/* contact infomation */
+.contact-content{
+	margin-top: 50px;
+	background-color: #eee;
+}
+
