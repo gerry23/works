@@ -8,7 +8,7 @@ body{
 .one{
 	padding-bottom: 50px;
 }
-.index-content03{
+.index-content-bgc{
 	background-color: #eee;
 }
 .content_04{
@@ -16,6 +16,17 @@ body{
 	margin-bottom: 20px;
 	padding: 10px;
 }
+.index-bg{
+	background-image: url('../images/kelly-sikkema-216021.jpg') ;
+	background-repeat: no-repeat;
+	color: white;
+}
+.footer-img{
+	display: block;
+	margin-bottom: 20px;
+
+}
+
 .footer-content{
 	margin: 30px;
 }
